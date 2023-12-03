@@ -14,7 +14,6 @@ public class main {
 			}
 			hashChain.HashInsert(temp, temp);
 		}
-		
 		System.out.println(hashLinear);
 		System.out.println(hashChain);
 	}
